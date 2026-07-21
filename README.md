@@ -51,5 +51,3 @@ Modern personal portfolio showcasing projects, skills, and experience.
 📂 Repository: [GitHub Repository]
 
 ---
-
-## E-Commerce Website
