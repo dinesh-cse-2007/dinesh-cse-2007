@@ -2,7 +2,7 @@
 <h3 align="center">
  Full Stack Web Developer | Passionate Problem Solver | Building Modern Web Experiences
 </h3>
-# 💫 About Me:
+About Me:
 I'm a **Full Stack Web Developer** passionate about creating responsive and user-friendly web applications.<br>- I enjoy turning ideas into real-world projects.<br>- Currently learning **Next.js, TypeScript, and Cloud Technologies**.<br>- Open to collaborating on exciting web development and open-source projects.<br>- Always exploring modern technologies and best development practices.<br>- Fun Fact: **I love solving coding challenges and building useful applications
 
 
