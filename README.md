@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm DINESH</h1>
 <h3 align="center">
  Full Stack Web Developer | Passionate Problem Solver | Building Modern Web Experiences
 </h3>
@@ -21,13 +21,13 @@
 
 ## Connect With Me
 <p align="left">
-<a href="[LinkedIn URL]">
+<a href="https://www.linkedin.com/in/dinesh-m-ba462932a?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="[Portfolio URL]">
+<a href="[https://golden-druid-13ca84.netlify.app/]">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
-<a href="mailto:[Email Address]">
+<a href="mailto:[dineshharish1986@gmail.com]">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
@@ -47,7 +47,7 @@
 Modern personal portfolio showcasing projects, skills, and experience.  
 **Tech Stack**  
 `HTML` `CSS` `JavaScript` `React`  
-🔗 Live Demo: [Portfolio URL]  
+🔗 Live Demo: [https://golden-druid-13ca84.netlify.app/]  
 📂 Repository: [GitHub Repository]
 
 ---
